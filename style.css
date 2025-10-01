@@ -17,12 +17,12 @@ body{
     align-items: center;
     background: linear-gradient(90deg, #0077b6, #c886d8);
     color: #f8f9fa;
-    padding: 15px 30px;
+    padding: 50px 50px;
 
     
 }
 .logo{
-    font-size: 24px;
+    font-size: 50px;
     font-weight: bold;
 }
 
@@ -30,6 +30,7 @@ body{
     list-style:none ;
     display: flex;
     gap: 15px;
+    font-size: 25px;
 
 
 }
@@ -140,8 +141,8 @@ footer{
     background : #5ca3ea;
     color: white;
     text-align: center;
-    padding: 20px;
-    margin-top: 40px;
+    padding: 80px;
+    margin-top: 100px;
 
 
 }
@@ -149,6 +150,7 @@ footer .socials a{
     color: #c155dc;
     margin: 0 10px;
     text-decoration: none;
+    font-size: 30px;
 
 }
 footer .socials a:hover{
