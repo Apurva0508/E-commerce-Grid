@@ -15,7 +15,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: linear-gradient(90deg, #0077b6, #c886d8);
+    background: linear-gradient(90deg, #254abb, #ebadad);
     color: #f8f9fa;
     padding: 50px 50px;
 
@@ -31,6 +31,7 @@ body{
     display: flex;
     gap: 15px;
     font-size: 25px;
+    
 
 
 }
@@ -48,7 +49,7 @@ body{
 }
 
 .hero{
-    background: url('https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
+    background: url('https://media.istockphoto.com/id/1475244066/photo/female-figures-in-stylish-knitting-pink-blue-set-sweater-pants-and-cardigans.jpg?s=2048x2048&w=is&k=20&c=JyuHNRhfzlrfFE0ReNVYu3iB9zVEgqNMPiHOTMtbNvk=') center/cover no-repeat;
     color:rgb(219, 158, 194);
     text-align: center;
     padding: 120px 20px;
@@ -58,15 +59,17 @@ body{
     font-size: 40px;
     margin-bottom: 15px;
     text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
-    color: #c155dc;
+    color: white;
     text-decoration: none;
+    
 
 }
 .hero p{
-    font-size: 20px;
+    font-size: 40px;
     margin-bottom: 25px;
-    color: #110813;
+    color: whitesmoke;
     text-decoration: none;
+    font-weight: bold;
 }
 
 .btn{
@@ -112,6 +115,14 @@ body{
     margin: auto;
 
 }
+
+.product-page img {
+  width: 100%;         /* fills the container width */
+  height: 250px;       /* fixed height for all product images */
+  object-fit: cover;   /* crops instead of stretching */
+  border-radius: 10px; /* optional: rounded corners */
+  margin-bottom: 10px;
+}
 .product-page:hover{
     transform: translateY(-5px);
     box-shadow: 0 8px 16px rgba(0,0,0,0.15);
@@ -138,7 +149,7 @@ body{
 }
 
 footer{
-    background : #5ca3ea;
+    background : #b887d4;
     color: white;
     text-align: center;
     padding: 80px;
@@ -147,7 +158,7 @@ footer{
 
 }
 footer .socials a{
-    color: #c155dc;
+    color: #fffeff;
     margin: 0 10px;
     text-decoration: none;
     font-size: 30px;
