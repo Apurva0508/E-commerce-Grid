@@ -50,7 +50,7 @@ body{
 }
 
 .hero{
-    background: url('https://media.istockphoto.com/id/1475244066/photo/female-figures-in-stylish-knitting-pink-blue-set-sweater-pants-and-cardigans.jpg?s=2048x2048&w=is&k=20&c=JyuHNRhfzlrfFE0ReNVYu3iB9zVEgqNMPiHOTMtbNvk=') center/cover no-repeat;
+    background: url('https://images.unsplash.com/photo-1620763049710-ebd6432782df?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') center/cover no-repeat;
     color:rgb(219, 158, 194);
     text-align: center;
     padding: 120px 20px;
@@ -187,4 +187,5 @@ footer .socials a:hover{
     font-size: 16px;
   }
 }
+
 
